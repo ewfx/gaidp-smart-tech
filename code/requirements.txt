@@ -1,0 +1,17 @@
+transformers
+pandas
+scikit-learn
+openai
+jinja2
+GPT-2
+
+---
+
+### **Final Steps**
+
+1. **Push to GitHub:**
+   - Initialize a GitHub repository and push all the files.
+2. **Generate the Zip:**
+   - After pushing the code to GitHub, users can clone it, install dependencies, and run the scripts.
+
+
